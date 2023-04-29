@@ -22,7 +22,7 @@ end
 
 -- Variables
 
-local UiLib = loadstring(game:HttpGet("https://pastebin.com/raw/JFzC7iXS"))()
+local UiLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vcsx/source2/main/file"))()
 local NotifyLib = loadstring(game:HttpGet("https://pastebin.com/raw/KRep3e1w"))()
 
 local TargetPlr, CamlockPlr
